@@ -20,3 +20,4 @@ pip install -r requirements.txt
 # Run the pipeline
 python app.py raw_to_notes 2 phi3:14b ./transcript
 ```
+Temp Bar + Estimated time of completion for all files.
